@@ -6,7 +6,7 @@
 
 #variables
 #$regionalsettingsURL = "https://raw.githubusercontent.com/averkinderen/Azure/master/101-ServerBuild/AURegion.xml"
-$regionalsettingsURL = "https://github.com/MBS-Pete/Server/blob/main/AURegion.xml"
+$regionalsettingsURL = "https://github.com/MBS-Pete/Server/blob/99d41e6620ebdbca9bc117db9393e34b448fb5b9/AURegion.xml"
 $RegionalSettings = "D:\AURegion.xml"
 
 
